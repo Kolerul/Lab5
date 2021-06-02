@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="0.0">WorkingWithMainStack</node>
+    <node x="0.0" y="150.0">sun</node>
+    <node x="0.0" y="225.0">Human</node>
+    <node x="0.0" y="75.0">StringManipulation</node>
+    <node x="266.0" y="225.0">City</node>
+    <node x="0.0" y="300.0">View</node>
+    <node x="237.0" y="75.0">AddMethods</node>
+    <node x="165.0" y="150.0">Goverment</node>
+    <node x="133.0" y="225.0">Model</node>
+    <node x="125.0" y="300.0">Main</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.2861538461538462" x="215.5403425689552" y="178.6543062200957" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
